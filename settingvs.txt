@@ -170,7 +170,7 @@ NICE THEME
     
     ],
     "background.fullscreen": {
-        "images": ["https://raw.githubusercontent.com/khanghaicode/somethinghaicode/main/dektop.png"],
+        "images": ["https://raw.githubusercontent.com/khanghaicode/somethinghaicode/main/bg3.png"],
         "opacity": 0.91,
         "size": "cover",
         "position": "center",
