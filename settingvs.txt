@@ -1,5 +1,3 @@
-https://quantrimang.com/cong-nghe/huong-dan-tao-may-chu-luu-tru-web-tai-nha-ban-hoac-van-phong-phan-ii-17159
-NICE THEME
 {
     "workbench.colorCustomizations":{
         "activityBar.background": "#181b20",
@@ -156,25 +154,25 @@ NICE THEME
         "editor.formatOnType": true
     },
     "C_Cpp.default.includePath": [
-        "C:\\\\MinGW\\\\include",
-        "C:\\\\MinGW\\\\lib\\\\gcc\\\\mingw32\\\\6.3.0\\\\include\\\\c++",
-        "C:\\\\MinGW\\\\lib\\gcc\\\\mingw32\\\\6.3.0\\\\include"
+        "C:\\\\Program Files\\\\CodeBlocks\\\\MinGW\\\\include",
+        "C:\\\\Program Files\\\\CodeBlocks\\\\MinGW\\\\lib\\\\gcc\\\\mingw32\\\\6.3.0\\\\include\\\\c++",
+        "C:\\\\Program Files\\\\CodeBlocks\\\\MinGW\\\\lib\\gcc\\\\mingw32\\\\6.3.0\\\\include"
     ],
     "C_Cpp.default.cppStandard": "c++20",
     "C_Cpp.default.cStandard": "c17",
-    "C_Cpp.default.compilerPath": "C:/MinGW/bin/g++.exe",
+    "C_Cpp.default.compilerPath": "C:/Program Files/CodeBlocks/MinGW/bin/g++.exe",
     "code-runner.runInTerminal": true,
     "editor.codeActionsOnSave": {},
     "settingsSync.ignoredExtensions": [],
     "settingsSync.ignoredSettings": [
-    
     ],
     "background.fullscreen": {
-        "images": ["https://raw.githubusercontent.com/khanghaicode/somethinghaicode/main/bg3.png"],
+        // ai doc duoc la gay
+        "images": ["https://raw.githubusercontent.com/khanghaicode/somethinghaicode/main/bg_dark_none.png"],
         "opacity": 0.91,
         "size": "cover",
         "position": "center",
         "interval": 0
     },
+    "glassit.alpha": 255,
 }
-*----------------------------------------------*
