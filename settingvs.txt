@@ -142,30 +142,15 @@
         "walkThrough.embeddedEditorBackground": "#2e3440",
         "welcomePage.buttonHoverBackground": "#404754"
     },
-    "vsicons.associations.files": [
-
-    ],
-    "vsicons.associations.folders": [
-    
-    ],
     "editor.mouseWheelZoom": true,
     "workbench.iconTheme": "vscode-icons",
-    "[python]": {
-        "editor.formatOnType": true
-    },
     "C_Cpp.default.includePath": [
         "C:\\\\Program Files\\\\CodeBlocks\\\\MinGW\\\\include",
         "C:\\\\Program Files\\\\CodeBlocks\\\\MinGW\\\\lib\\\\gcc\\\\mingw32\\\\6.3.0\\\\include\\\\c++",
         "C:\\\\Program Files\\\\CodeBlocks\\\\MinGW\\\\lib\\gcc\\\\mingw32\\\\6.3.0\\\\include"
     ],
-    "C_Cpp.default.cppStandard": "c++20",
-    "C_Cpp.default.cStandard": "c17",
     "C_Cpp.default.compilerPath": "C:/Program Files/CodeBlocks/MinGW/bin/g++.exe",
     "code-runner.runInTerminal": true,
-    "editor.codeActionsOnSave": {},
-    "settingsSync.ignoredExtensions": [],
-    "settingsSync.ignoredSettings": [
-    ],
     "background.fullscreen": {
         // ai doc duoc la gay
         "images": ["https://raw.githubusercontent.com/khanghaicode/somethinghaicode/main/bg_dark_none.png"],
@@ -174,5 +159,4 @@
         "position": "center",
         "interval": 0
     },
-    "glassit.alpha": 255,
 }
